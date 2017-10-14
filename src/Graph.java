@@ -287,3 +287,4 @@ class Graph {
     }
 }
 The first amend.
+The amend of B2.

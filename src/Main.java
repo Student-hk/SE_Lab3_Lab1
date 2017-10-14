@@ -194,3 +194,4 @@ public class Main {
         } while(true);
     }
 }The first amend.
+The amend of B2.
