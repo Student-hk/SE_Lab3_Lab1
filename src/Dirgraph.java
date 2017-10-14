@@ -200,3 +200,4 @@ class  Graphviz{
 }The first amend.
 The amend of B1.
 The amend of C4.
+The amend of B2.
