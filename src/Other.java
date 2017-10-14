@@ -110,3 +110,4 @@ class VertexDist{
         }
     };
 }
+The amend of C4.
